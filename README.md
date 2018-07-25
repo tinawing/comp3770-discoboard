@@ -1,2 +1,2 @@
-# comp3770-discoboard
-A research project investigating musical expression and generation using the STM32L476G Discovery board
+# comp3770-musical-instrument
+A research project investigating musical expression and generation using Arduino
