@@ -1,0 +1,7 @@
+so i really wanted to explore the gesture-based side of music production
+
+to try:
+making continuous sound out of the ultrasonic sensor piano
+making nicer sounds (more electronic)
+percussion?
+mp3 recording module? try looping?

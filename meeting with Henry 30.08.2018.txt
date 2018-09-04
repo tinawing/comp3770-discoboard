@@ -1,0 +1,2 @@
+- using Arduino  sensors to interact with electronic music, harnessing full range of expressivity
+- Arduino interaction with Sonic Pi
