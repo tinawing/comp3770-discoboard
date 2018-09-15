@@ -49,6 +49,8 @@ long duration, distance;
 void updateValues(int i) {
   prevVal = midiVal;
   midiVal = notes[i];
+  Serial.print("Midi value: ");
+  Serial.println(midiVal);
 }
 
 void setup() {
@@ -57,7 +59,8 @@ void setup() {
 
   pinMode(Buzz, OUTPUT);
 
-  Serial.begin(115200);
+  MIDI.begin();
+  Serial.begin(9600);
 }
 
 void loop() {
